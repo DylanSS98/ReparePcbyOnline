@@ -1,0 +1,153 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: #FFFFFF;
+  background-color: #2d2e2e;
+  font-size: 1.6em;
+}
+
+.logo_geek {
+  margin-bottom: 200px;
+  margin-top: 300px;
+}
+
+.navbarre {
+  background-color: #291e17;
+  position: fixed;
+  width: 100%;
+  box-shadow: 0 5px 5px #222222;
+}
+
+.section {
+  margin: 0 0 100px 0;
+}
+
+.section h3 {
+  float: left;
+}
+
+.section p, .section ul {
+  padding-top: 120px;
+  padding-bottom: 50px;
+}
+
+p, h3 {
+  padding-right: 20%;
+  padding-left: 20%;
+}
+
+.modal-dialog {
+  color: #222222;
+}
+
+/* id */
+#nous {
+  background: no-repeat url("../img/ordi_nous.jpg");
+  height: 950px;
+  opacity: 0.4;
+}
+
+#service {
+  padding-top: 120px;
+  padding-bottom: 380px;
+}
+
+#localisation {
+  background-image: url("../img/fond_parquet.jpg");
+  padding-top: 50px;
+  padding-bottom: 200px;
+}
+
+#maCarte {
+  height: 500px;
+  width: 60%;
+  margin-left: 20%;
+  border: 8px #2d2e2e solid;
+}
+
+.text_nous {
+  padding-top: 200px;
+}
+
+li img {
+  width: 200px;
+  height: 200px;
+}
+
+form {
+  width: 30%;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  margin: 20px 50px;
+  color: #222222;
+}
+
+.card {
+  margin: 30px 30px;
+}
+
+footer {
+  padding: 20px 10px;
+}
+
+footer h5 {
+  font-size: 0.6em;
+}
+
+nav {
+  position: fixed;
+  z-index: 10;
+  width: 100%;
+}
+
+nav ul li a {
+  color: aliceblue;
+}
+
+.text_nous {
+  position: absolute;
+  top: 120%;
+}
+
+@media screen and (max-width: 728px) {
+  .logo_geek {
+    width: 90%;
+    margin-top: 100px;
+  }
+
+  .img_nous {
+    display: none;
+  }
+
+  h3 {
+    padding-top: 15%;
+  }
+
+  #maCarte {
+    height: 300px;
+  }
+
+  footer h5 {
+    font-size: 0.6em;
+  }
+
+  p {
+    font-size: 0.8em;
+  }
+
+  #service ul {
+    display: flex;
+    flex-direction: column;
+  }
+
+  h2 {
+    font-size: 1.2em;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */

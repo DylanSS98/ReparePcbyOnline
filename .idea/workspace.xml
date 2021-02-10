@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99509bcc-0474-440f-97da-a467258d7112" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediaq/contact_mediaq.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PortfolioV20/css/envoie_mail.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PortfolioV20/img/cv/CVACS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PortfolioV20/img/js.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PortfolioV20/img/php.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PortfolioV20/src/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/admin/dash/espace_rdv.php" beforeDir="false" afterPath="$PROJECT_DIR$/../RepareOnlineGarage/admin/dash/espace_rdv.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/back/delete_center.php" beforeDir="false" afterPath="$PROJECT_DIR$/../RepareOnlineGarage/back/delete_center.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/back/edit_ville.php" beforeDir="false" afterPath="$PROJECT_DIR$/../RepareOnlineGarage/back/edit_ville.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/back/insert_city.php" beforeDir="false" afterPath="$PROJECT_DIR$/../RepareOnlineGarage/back/insert_city.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/back/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/../RepareOnlineGarage/back/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/back/rdv-process.php" beforeDir="false" afterPath="$PROJECT_DIR$/../RepareOnlineGarage/back/rdv-process.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/back/rdv_being_processed.php" beforeDir="false" afterPath="$PROJECT_DIR$/../RepareOnlineGarage/back/rdv_being_processed.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/back/rdv_waiting.php" beforeDir="false" afterPath="$PROJECT_DIR$/../RepareOnlineGarage/back/rdv_waiting.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/back/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/../RepareOnlineGarage/back/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/back/update_status_proccess.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/css/back.css" beforeDir="false" afterPath="$PROJECT_DIR$/../RepareOnlineGarage/css/back.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/css/log.css" beforeDir="false" afterPath="$PROJECT_DIR$/../RepareOnlineGarage/css/log.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../RepareOnlineGarage/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../RepareOnlineGarage/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../RepareOnlineGarage/css/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/img/binance-setup.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../RepareOnlineGarage/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ajax/read.md" beforeDir="false" afterPath="$PROJECT_DIR$/../ajax/read.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projet_perso/POO/Personnage.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projet_perso/POO/Personnage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projet_perso/testt/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../biblotheque_code/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../biblotheque_code/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/.idea/dataSources/dc1ad5fb-4b62-4aa4-b965-2d9ed14b3e2c.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/.idea/dataSources/dc1ad5fb-4b62-4aa4-b965-2d9ed14b3e2c/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/.idea/explorerv3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/file/19035-iron-man-1920x1080-movie-wallpaper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/file/2016_3d_abstract_polygon_wallpaper_cs9_fx_design-wallpaper-1920x1080.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/file/26ba023009dec751f846eb1157c13351.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/file/403144.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/file/549760.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/file/557051.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/file/a79de41a8ee08153ddd670dddbb7410d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/file/awp-asiimov-cs-go-counter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/file/cb57bbaeab6d3308ebf2bafd770c3fb8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/file/cd3lpsG.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/file/f28e01651c63b96a691a681a4bbe3a7c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/file/f7e89297857c5bee17ae2e7fe66ef414.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/file/tesla-model-s-hd-wallpapers-79866_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/src/account.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/src/connect.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/src/delete_image.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/src/function.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/src/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/src/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/src/register.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/src/upload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/altorouter/altorouter/AltoRouter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/altorouter/altorouter/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/altorouter/altorouter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/altorouter/altorouter/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/altorouter/altorouter/phpcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/bin/var-dump-server" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/bin/var-dump-server.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/composer/ClassLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/composer/InstalledVersions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/composer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/composer/autoload_classmap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/composer/autoload_files.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/composer/autoload_namespaces.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/composer/autoload_psr4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/composer/autoload_real.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/composer/autoload_static.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/composer/installed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/composer/installed.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/composer/platform_check.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/.github/workflows/tests.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Exception/ErrorException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Exception/Formatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Exception/Frame.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Exception/FrameCollection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Exception/Inspector.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Handler/CallbackHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Handler/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Handler/HandlerInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Handler/JsonResponseHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Handler/XmlResponseHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Resources/css/whoops.base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Resources/js/clipboard.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Resources/js/prettify.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Resources/js/whoops.base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Resources/js/zepto.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Resources/views/env_details.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Resources/views/frame_code.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Resources/views/frame_list.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Resources/views/frames_container.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Resources/views/frames_description.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Resources/views/header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Resources/views/header_outer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Resources/views/layout.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Resources/views/panel_details.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Resources/views/panel_details_outer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Resources/views/panel_left.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Resources/views/panel_left_outer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Run.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/RunInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Util/HtmlDumperOutput.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Util/Misc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Util/SystemFacade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/filp/whoops/src/Whoops/Util/TemplateHelper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/psr/log/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/psr/log/Psr/Log/AbstractLogger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/psr/log/Psr/Log/InvalidArgumentException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/psr/log/Psr/Log/LogLevel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/psr/log/Psr/Log/LoggerAwareInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/psr/log/Psr/Log/LoggerAwareTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/psr/log/Psr/Log/LoggerInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/psr/log/Psr/Log/LoggerTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/psr/log/Psr/Log/NullLogger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/psr/log/Psr/Log/Test/DummyTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/psr/log/Psr/Log/Test/LoggerInterfaceTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/psr/log/Psr/Log/Test/TestLogger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/psr/log/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/psr/log/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/polyfill-mbstring/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/polyfill-mbstring/Mbstring.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/polyfill-mbstring/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/polyfill-mbstring/Resources/unidata/lowerCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/polyfill-mbstring/Resources/unidata/titleCaseRegexp.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/polyfill-mbstring/Resources/unidata/upperCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/polyfill-mbstring/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/polyfill-mbstring/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/polyfill-php80/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/polyfill-php80/Php80.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/polyfill-php80/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/polyfill-php80/Resources/stubs/Attribute.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/polyfill-php80/Resources/stubs/Stringable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/polyfill-php80/Resources/stubs/UnhandledMatchError.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/polyfill-php80/Resources/stubs/ValueError.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/polyfill-php80/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/polyfill-php80/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/AmqpCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/ArgsStub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/Caster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/ClassStub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/ConstStub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/CutArrayStub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/CutStub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/DOMCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/DateCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/DoctrineCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/DsCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/DsPairStub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/EnumStub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/ExceptionCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/FrameStub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/GmpCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/ImagineCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/ImgStub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/IntlCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/LinkStub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/MemcachedCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/PdoCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/PgSqlCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/ProxyManagerCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/RdKafkaCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/RedisCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/ReflectionCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/ResourceCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/SplCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/StubCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/SymfonyCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/TraceStub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/UuidCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/XmlReaderCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Caster/XmlResourceCaster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Cloner/AbstractCloner.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Cloner/ClonerInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Cloner/Cursor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Cloner/Data.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Cloner/DumperInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Cloner/Stub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Cloner/VarCloner.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Command/Descriptor/DumpDescriptorInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Command/ServerDumpCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Dumper/AbstractDumper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Dumper/CliDumper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Dumper/ContextProvider/ContextProviderInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Dumper/ContextualizedDumper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Dumper/DataDumperInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Dumper/HtmlDumper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Dumper/ServerDumper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Exception/ThrowingCasterException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Resources/bin/var-dump-server" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Resources/css/htmlDescriptor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Resources/functions/dump.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Resources/js/htmlDescriptor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Server/Connection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Server/DumpServer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/Test/VarDumperTestTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/VarDumper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/vendor/symfony/var-dumper/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/views/assets/css/mediaq.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/views/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/views/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/views/block/burger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/views/block/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/views/block/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/views/home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/views/login_form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/views/page_account.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/views/page_upload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../explorerv3/views/register_form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../forum_alpha/elements/bdd.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../forum_alpha/elements/categories.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../forum_alpha/elements/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../forum_alpha/elements/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../forum_alpha/elements/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../forum_alpha/elements/navbarre.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../forum_arma/assets/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../forum_arma/assets/css/navbarre.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../forum_arma/assets/css/register.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../forum_arma/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../forum_arma/elements/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../live_coding_poo/.idea/live_coding_poo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../live_coding_poo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../live_coding_poo/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../live_coding_poo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../live_coding_poo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../live_coding_poo/Account.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../live_coding_poo/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mdrsass/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mdrsass/sass/_variable.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mdrsass/sass/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/assets/css/file_actualite.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/assets/css/file_actualite.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/assets/css/file_actualite.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/assets/css/form.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/assets/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/assets/css/navbarre.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/assets/css/navbarre.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/assets/css/navbarre.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/assets/css/register.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/assets/css/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/assets/css/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/assets/css/variable.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/assets/img/Nom_serveur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/assets/img/arma-3-pc-c5374f53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/assets/img/register_forum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/css/file_actualite.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/css/file_actualite.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/css/file_actualite.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/css/form.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/css/register.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/css/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/css/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/css/variable.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/css/variable.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/css/variable.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/img/Nom_serveur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/img/arma-3-pc-c5374f53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/img/register_forum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/inc/db.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/inc/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/inc/function.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/inc/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/inc/navbarre.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../people_of_arma/views/register.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../portfolio scss/views/assets/scss/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/.idea/watcherTasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/assets/css/file_actualite.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/assets/css/form.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/assets/css/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/assets/css/variable.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/blog/home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/blog/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/blog/publication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/blog/register.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/elements/bdd.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/elements/file_actualite.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/elements/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/elements/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/elements/navbarre.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/src/bdd.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/src/block/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/src/block/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/src/commentaire.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/src/deconnexion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/src/file_actualiter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/src/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/src/publication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/src/register.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/views/form_login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/views/form_publi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/views/form_register.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_blogV2/views/home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_espace_membre/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_espace_membre/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_espace_membre/.idea/tp_espace_membre.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_espace_membre/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_espace_membre/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_espace_membre/assets/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_espace_membre/assets/style_form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_espace_membre/assets/style_index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_espace_membre/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_espace_membre/src/bdd.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_espace_membre/src/commentaire.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_espace_membre/src/connexion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_espace_membre/src/deconnexion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_espace_membre/src/inscription.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_espace_membre/views/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projet_espace_membre/views/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test_php_ocr/.idea/Test_php_OCR.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test_php_ocr/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test_php_ocr/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tp minichat/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tp minichat/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tp minichat/.idea/tp minichat.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tp minichat/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tp minichat/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tp minichat/minichat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tp minichat/minichat_post.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tp minichat/stylechat.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1oFHPSNBSFXJoMWaLQVmYjXgOyH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99509bcc-0474-440f-97da-a467258d7112" name="Default Changelist" comment="" />
+      <created>1612875396093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612875396093</updated>
+      <workItem from="1612875397796" duration="8221000" />
+      <workItem from="1612942574510" duration="569000" />
+      <workItem from="1612943151684" duration="9197000" />
+      <workItem from="1612960421452" duration="10851000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

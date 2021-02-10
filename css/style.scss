@@ -1,0 +1,199 @@
+
+
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: #212121;
+  background-color: #FFFFFF;
+
+}
+.onlinelogo{
+  position: fixed;
+  top: -40px;
+  left: 400px;
+  z-index: 800;
+}
+header{
+  background-color: #d31e44;
+  font-size: 1.6em;
+
+}
+header nav ul li a {
+  color: #212121;
+  font-size: 0.8em;
+}
+a:hover{
+  color: red;
+}
+.logo_geek{
+  margin-bottom: 200px;
+  margin-top: 250px;
+}
+
+
+.section {
+
+}
+.section h3{
+  float: left;
+
+
+}
+.section p, .section ul{
+  padding-top: 120px;
+  padding-bottom: 50px;
+}
+p, h3 {
+padding-right: 20%;
+  padding-left: 20%;
+}
+
+.modal-dialog{
+color: #222222;
+}
+.card{
+  box-shadow: #212121 1px 2px;
+}
+.card-body{
+  color: black;
+}
+
+/* id */
+#nous{
+  background:no-repeat url("../img/ordi_nous.jpg");
+  height: 950px;
+  opacity: 0.4;
+
+}
+
+#service {
+  background: no-repeat url("../img/bg_service.png");
+  background-size: cover;
+    padding-top: 120px;
+  padding-bottom: 148px;
+  color: aliceblue;
+
+}
+
+#localisation{
+  padding-top: 80px;
+  padding-bottom: 200px;
+  background: no-repeat url("../img/fond_loc.jpg");
+  background-size: cover;
+}
+#maCarte{
+  height: 500px;
+  width: 100%;
+  margin-top: 80px;
+  margin-left: 20%;
+  border: 2px #2d2e2e solid;
+  z-index: 9;
+
+}
+.text_nous{
+  padding-top: 200px;
+}
+
+form{
+  width: 30%;
+}
+ul{
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  margin: 20px 50px ;
+  color: #222222;
+}
+.card{
+  margin: 30px 30px;
+  color: #FFFFFF;
+}
+
+footer{
+  font-size: 1.6em;
+  padding: 20px 10px;
+}
+footer h5{
+  color: aliceblue;
+  font-size: 0.6em;
+}
+nav {
+  position: fixed;
+  z-index: 10;
+  width: 100%;
+}
+nav ul li a {
+  color: aliceblue;
+}
+.text_nous{
+  position: absolute;
+  top: 120%;
+  font-size: 1.6em;
+}
+
+.arrow{
+  display: flex;
+  flex-direction: column;
+  color: white;
+  text-shadow: 2px 2px 2px black;
+  font-size: 1.2em;
+  background: no-repeat url("../img/rigole_etapes.jpg");
+  background-size: cover;
+  font-weight: bold;
+}
+.arrow li{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.alert {
+  margin-left: 20%;
+  width: 100%;
+}
+@media screen and (max-width: 728px){
+  .logo_geek{
+    width: 90%;
+  margin-top: 100px;
+  }
+
+  .img_nous{
+    display: none;
+  }
+
+  h3{
+    padding-top: 15%;
+  }
+  #service h2{
+
+  }
+
+
+  #maCarte{
+
+    height: 300px;
+
+  }
+  footer h5{
+    font-size: 0.6em;
+  }
+  p{
+    font-size: 0.8em;
+  }
+ #service ul{
+    display: flex;
+    flex-direction: column;
+
+  }
+  h2{
+    font-size: 1.2em;
+  }
+  .{
+    grid-column: 1;
+  }
+}
+
+
+
+
+
+
