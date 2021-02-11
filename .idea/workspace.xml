@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99509bcc-0474-440f-97da-a467258d7112" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediaq/contact_mediaq.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PortfolioV20/css/envoie_mail.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PortfolioV20/img/cv/CVACS.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PortfolioV20/img/js.png" beforeDir="false" />
@@ -27,6 +24,10 @@
       <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../RepareOnlineGarage/css/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/img/binance-setup.exe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../RepareOnlineGarage/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ajax/read.md" beforeDir="false" afterPath="$PROJECT_DIR$/../ajax/read.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Projet_perso/POO/Personnage.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projet_perso/POO/Personnage.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Projet_perso/testt/index.php" beforeDir="false" />
@@ -369,7 +370,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1oFHPSNBSFXJoMWaLQVmYjXgOyH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -388,6 +389,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -401,7 +403,8 @@
       <workItem from="1612875397796" duration="8221000" />
       <workItem from="1612942574510" duration="569000" />
       <workItem from="1612943151684" duration="9197000" />
-      <workItem from="1612960421452" duration="10851000" />
+      <workItem from="1612960421452" duration="12278000" />
+      <workItem from="1613029107252" duration="7679000" />
     </task>
     <servers />
   </component>
@@ -418,5 +421,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

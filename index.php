@@ -95,8 +95,8 @@ if (isset($_POST['form_submit'])) {
         <ul>
 
             <li>
-                <div class="card bg-white" style="width: 18rem;">
-                    <img src="img/diag.jfif" class="card-img-top" alt="" width="200px" height="200px">
+                <div class="card serv bg-white">
+                    <img src="img/diag.jfif" class="card-img-top" alt="" >
                     <hr>
                     <div class="card-body">
                         <h5 class="card-title">Diagnostic</h5>
@@ -105,8 +105,8 @@ if (isset($_POST['form_submit'])) {
             </li>
 
             <li>
-                <div class="card bg-white" style="width: 18rem;">
-                    <img src="img/maintenance.jfif" class="card-img-top" alt="" width="200px" height="200px">
+                <div class="card serv bg-white" >
+                    <img src="img/maintenance.jfif" class="card-img-top" alt="" >
                     <hr>
                     <div class="card-body">
                         <h5 class="card-title">Maintenance</h5>
@@ -116,8 +116,8 @@ if (isset($_POST['form_submit'])) {
         </ul>
         <ul>
             <li>
-                <div class="card bg-white" style="width: 18rem;">
-                    <img src="img/software.jpg" class="card-img-top" alt="" width="200px" height="200px">
+                <div class="card serv bg-white" >
+                    <img src="img/software.jpg" class="card-img-top" alt="" >
                     <hr>
                     <div class="card-body">
                         <h5 class="card-title">Installation Software</h5>
@@ -125,8 +125,8 @@ if (isset($_POST['form_submit'])) {
                 </div>
             </li>
             <li>
-                <div class="card bg-white" style="width: 18rem;">
-                    <img src="img/install.jpg" class="card-img-top" alt="" width="200px" height="200px">
+                <div class="card serv bg-white">
+                    <img src="img/install.jpg" class="card-img-top" alt="" >
                     <hr>
                     <div class="card-body">
                         <h5 class="card-title">Remaster</h5>
@@ -141,9 +141,9 @@ if (isset($_POST['form_submit'])) {
     <div id="localisation">
         <h2 style=>Contact</h2>
 
-        <div class="container">
-            <div class="row">
-                <div class="col">
+                <div class="contain_contact">
+
+                    <div class="one">
                     <br>
                     <h5 style="color: #d31e44">Les étapes à suivre :</h5>
                 <ul class="card arrow">
@@ -163,8 +163,9 @@ if (isset($_POST['form_submit'])) {
                         <p><img src="img/fleche_droite.png" alt=""> Un conseiller vous contactera par la suite.</p>
                     </li>
                 </ul>
-                </div>
-                <div class="col">
+                    </div>
+
+                    <div class="two">
                     <div id="maCarte">
 
                     </div>
@@ -181,8 +182,8 @@ if (isset($_POST['form_submit'])) {
 </div>";
                     }
                     ?>
+                    </div>
                 </div>
-            </div>
         </div>
 
 
@@ -243,7 +244,7 @@ if (isset($_POST['form_submit'])) {
 
         <h5>Site conçus par Dylan Silva Sanches</h5>
 
-        <a style="font-size: 0.5em; color: aliceblue" href="admin/index.php">Accés admin</a>
+        <a class="accesadmin" style="font-size: 0.5em; color: aliceblue" href="admin/index.php">Accés admin</a>
     </footer>
     <!-- Js -->
     <!--<script type="text/javascript" src="js/appmap.js"></script>-->
