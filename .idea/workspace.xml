@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99509bcc-0474-440f-97da-a467258d7112" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Projet_perso/test_symfo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet_perso/test_symfo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet_perso/test_symfo/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet_perso/test_symfo/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PortfolioV20/css/envoie_mail.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PortfolioV20/img/cv/CVACS.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PortfolioV20/img/js.png" beforeDir="false" />
@@ -24,7 +28,7 @@
       <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../RepareOnlineGarage/css/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/img/binance-setup.exe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../RepareOnlineGarage/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../RepareOnlineGarage/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
@@ -384,7 +388,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Projet_perso/test_symfo" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -405,6 +409,8 @@
       <workItem from="1612943151684" duration="9197000" />
       <workItem from="1612960421452" duration="12278000" />
       <workItem from="1613029107252" duration="7679000" />
+      <workItem from="1613046947658" duration="4396000" />
+      <workItem from="1613115299752" duration="1422000" />
     </task>
     <servers />
   </component>

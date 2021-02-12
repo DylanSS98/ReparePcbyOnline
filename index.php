@@ -80,15 +80,15 @@ if (isset($_POST['form_submit'])) {
 
     <div id="nous" class="section">
 
-    </div>
+
     <div class="text_nous">
-        <h3><strong>A propos de nous</strong></h3>
-        <br>
+        <h3 style=""><strong>A propos de nous</strong></h3>
+
         <p><strong>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad dignissimos fugiat iste, magni maiores nulla
                 odit tempore veritatis? Aspernatur blanditiis fugiat quisquam reprehenderit! Ad, aperiam illum ipsam
                 laboriosam quam repudiandae.</strong></p>
     </div>
-
+    </div>
 
     <div id="service">
         <h2>Nos services</h2>
